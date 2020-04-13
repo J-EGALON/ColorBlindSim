@@ -1,0 +1,10 @@
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\obj\Debug\ColorBlindSim.Form1.resources
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\obj\Debug\ColorBlindSim.Properties.Resources.resources
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\obj\Debug\ColorBlindSim.csproj.GenerateResource.cache
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\obj\Debug\ColorBlindSim.csproj.CoreCompileInputs.cache
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\bin\Debug\ColorBlindSim.exe.config
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\bin\Debug\ColorBlindSim.exe
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\bin\Debug\ColorBlindSim.pdb
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\obj\Debug\ColorBlindSim.exe
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\obj\Debug\ColorBlindSim.pdb
+I:\PrivateArch\GAlion\Visual Studio\ColorBlindSim\ColorBlindSim\ColorBlindSim\obj\Debug\ColorBlindSim.csprojAssemblyReference.cache
